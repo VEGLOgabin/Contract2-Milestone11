@@ -1,0 +1,4 @@
+pandas
+scrapy
+bs4
+openpyxl

@@ -1,0 +1,4 @@
+scrapy 
+pydispatcher
+beautifulsoup4
+lxml
